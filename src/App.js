@@ -1,4 +1,4 @@
-import logo from './Paris.jpg';
+import logo from './logo.png';
 import './App.css';
 import Dictionary from "./Dictionary";
 
@@ -14,7 +14,7 @@ export default function App() {
       </main>
       <footer className="App-footer">
         <small>
-        Coded by Andrea Sheppard and open-sourced on GitHub
+        Coded by Andrea Sheppard and is open-sourced on{" "}<a href="https://github.com/asheppard14/dictionary-app" target="blank" rel="noopener noreferrer">GitHub</a>
         </small>
       </footer>
       </div>
